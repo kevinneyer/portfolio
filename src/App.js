@@ -9,7 +9,7 @@ import Medium from './images/Medium.png'
 function App() {
   return (
     <div className="App">
-      <h1>Welcome! I am Kevin Neyer</h1>
+      <h1 class="display-4" >Welcome! I am Kevin Neyer</h1>
       <About />
       <Projects />
         <div className='links'>
